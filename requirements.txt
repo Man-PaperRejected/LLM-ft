@@ -1,0 +1,22 @@
+accelerate==1.5.2
+datasets==3.4.0
+filelock==3.14.0
+huggingface-hub==0.26.0
+matplotlib==3.9.2 
+numpy==1.26.3
+pandas==2.2.3 
+peft==0.15.2
+pillow==10.2.0 
+protobuf==6.30.2
+safetensors==0.4.5 
+scikit-learn==1.6.1 
+scipy==1.14.1 
+sentencepiece==0.2.0 
+tokenizers==0.21.0 
+torch==2.5.1
+
+# pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu124
+
+transformers==4.49.0
+trl==0.15.2 
+tqdm==4.67.1 
